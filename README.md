@@ -24,6 +24,11 @@ Just go to the "Play" tab in SnapMap, Click the Search Button, and put in the Sn
 **SNAPMAP Code: 89K9EGER**
 
 ---
+## Game Overview
+
+
+
+
 
 ---
 ## Current Version: v.0.1 (06/25/17)
