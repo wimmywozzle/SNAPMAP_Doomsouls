@@ -16,8 +16,8 @@ Doom Souls is a Wave-Based RPG Survival gametype for DOOM. Fight wave after wave
 + [PLANNED] Defend The Objective Gametype
 ---
 ## How Do I Play?
-### Just go to the "Play" tab in SnapMap, Click the Search Button, and put in the SnapMap Code to get started!
-## SNAPMAP Code: 89K9EGER
+Just go to the "Play" tab in SnapMap, Click the Search Button, and put in the SnapMap Code to get started!
+SNAPMAP Code: 89K9EGER
 ---
 ## Current Version: v.0.1 (06/25/17)
 + Initial Release
