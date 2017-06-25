@@ -35,6 +35,9 @@ In Doom Souls, the player fights a Wave of enemies in an enclosed arena, and the
 
 *The player visits the Main Hub, with the Bonfire in the middle and the two teleports to Level Up / Equipment Room.*
 
+![alt text](https://raw.githubusercontent.com/wimmywozzle/SNAPMAP_Doomsouls/master/HUD1.jpg "Doom Souls Gameplay")
+
+This is the additional HUD you will see, on top of your usual Health/Armor/Ammo information. You can spend Souls on Weapons, Perks, and Equipment, while spending XP can increase a Skill by 10%. 
 
 ---
 ## Current Version: v.0.1 (06/25/17)
