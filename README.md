@@ -31,7 +31,9 @@ Just go to the "Play" tab in SnapMap, Click the Search Button, and put in the Sn
 
 In Doom Souls, the player fights a Wave of enemies in an enclosed arena, and then is brought back to the main shop area to purchase equipment and level up his/her character. 
 
+![alt text](https://raw.githubusercontent.com/wimmywozzle/SNAPMAP_Doomsouls/master/SS2.jpg "Doom Souls Gameplay")
 
+*The player visits the Main Hub, with the Bonfire in the middle and the two teleports to Level Up / Equipment Room.*
 
 
 ---
