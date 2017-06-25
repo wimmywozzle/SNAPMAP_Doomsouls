@@ -25,7 +25,8 @@ Just go to the "Play" tab in SnapMap, Click the Search Button, and put in the Sn
 
 ---
 ## Game Overview
-
+![alt text](https://raw.githubusercontent.com/wimmywozzle/SNAPMAP_Doomsouls/master/SS1,jpg "Doom Souls Gameplay")
+*In the above Screenshot, the Player is trying to stay alive.*
 
 
 
