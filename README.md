@@ -21,7 +21,7 @@ Doom Souls is a Wave-Based RPG Survival gametype for DOOM. Fight wave after wave
 ## How Do I Play?
 
 Just go to the "Play" tab in SnapMap, Click the Search Button, and put in the SnapMap Code to get started!
-**SNAPMAP Code: 89K9EGER**
+**Code: 89K9EGER**
 
 ---
 ## Game Overview
@@ -37,7 +37,7 @@ In Doom Souls, the player fights a Wave of enemies in an enclosed arena, and the
 
 ![alt text](https://raw.githubusercontent.com/wimmywozzle/SNAPMAP_Doomsouls/master/HUD1.jpg "Doom Souls Gameplay")
 
-This is the additional HUD you will see, on top of your usual Health/Armor/Ammo information. You can spend Souls on Weapons, Perks, and Equipment, while spending XP can increase a Skill by 10%. 
+This is the additional HUD you will see, on top of your usual Health/Armor/Ammo information. You can spend Souls on Weapons, Perks, and Equipment, while spending XP can increase a Skill by 10%. You SOUL LEVEL increases with each Arena Victory. When your SL increases, the game will ramp up the difficulty by spawning monsters you haven't seen yet with random modifiers.
 
 ---
 ## Current Version: v.0.1 (06/25/17)
