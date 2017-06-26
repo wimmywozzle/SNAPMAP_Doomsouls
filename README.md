@@ -6,7 +6,7 @@ Doom Souls is a Wave-Based RPG Survival gametype for DOOM. Fight wave after wave
 
 ## List Of Features/Planned Features
 + Wave Based Survival Gameplay. Move from Arena to Arena to become stronger!
-+ Perma-death. You die, the map ends. 
++ Perma-death. You die, the map ends....unless you find some certain items.
 + Custom Perks
 + Custom Equipment
 + Jukebox
@@ -16,6 +16,7 @@ Doom Souls is a Wave-Based RPG Survival gametype for DOOM. Fight wave after wave
 + [PLANNED] Multiplayer Support
 + [PLANNED] Player Classes
 + [PLANNED] Defend The Objective Gametype
++ [PLANNED] Raids (long snaplevels that have OP monsters.
 
 ---
 ## How Do I Play?
