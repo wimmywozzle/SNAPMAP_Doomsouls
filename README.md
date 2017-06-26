@@ -41,7 +41,7 @@ This is the additional HUD you will see, on top of your usual Health/Armor/Ammo 
 
 ---
 ## Current Version: v.0.2 (06/26/17)
-v.0.2
+v.0.02
  - [REMOVED] "View Changelog" entry in game (for obvious reasons)
  - [ADDED] GitHub Link on Spawn
  - [FIX] Phobos Flask, Double Jump Boots, and Tome of Knowledge prices have been fixed
@@ -55,7 +55,7 @@ v.0.2
 
 
 
-v.0.1
+v.0.01
 + Initial Release
 - [BUG] Sometimes the Hellshot in the opening locker will not spawn. I am aware and fixing it.
 - [BUG] On SL1, the enemy spawns may get stuck in an area making that SL extremely easy to cheese. Looking into it.
