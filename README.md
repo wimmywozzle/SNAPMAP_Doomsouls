@@ -40,7 +40,7 @@ In Doom Souls, the player fights a Wave of enemies in an enclosed arena, and the
 This is the additional HUD you will see, on top of your usual Health/Armor/Ammo information. You can spend Souls on Weapons, Perks, and Equipment, while spending XP can increase a Skill by 10%. You SOUL LEVEL increases with each Arena Victory. When your SL increases, the game will ramp up the difficulty by spawning monsters you haven't seen yet with random modifiers.
 
 ---
-## Current Version: v.0.2 (06/26/17)
+## Current Version: v.0.02 (06/26/17)
 v.0.02
  - [REMOVED] "View Changelog" entry in game (for obvious reasons)
  - [ADDED] GitHub Link on Spawn
