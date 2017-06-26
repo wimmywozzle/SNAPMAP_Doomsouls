@@ -59,4 +59,4 @@ v.0.1
 + Initial Release
 - [BUG] Sometimes the Hellshot in the opening locker will not spawn. I am aware and fixing it.
 - [BUG] On SL1, the enemy spawns may get stuck in an area making that SL extremely easy to cheese. Looking into it.
-- Added WIP Indicators. Too far from finished lol
+- [ADDED] WIP Indicators. Too far from finished lol
