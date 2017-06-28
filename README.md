@@ -16,7 +16,7 @@ Doom Souls is a Wave-Based RPG Survival gametype for DOOM. Fight wave after wave
 + [PLANNED] Multiplayer Support
 + [PLANNED] Player Classes
 + [PLANNED] Defend The Objective Gametype
-+ [PLANNED] Raids (long snaplevels that have OP monsters.
++ [PLANNED] Raids (long snaplevels that have OP monsters.)
 
 ---
 ## How Do I Play?
@@ -41,7 +41,16 @@ In Doom Souls, the player fights a Wave of enemies in an enclosed arena, and the
 This is the additional HUD you will see, on top of your usual Health/Armor/Ammo information. You can spend Souls on Weapons, Perks, and Equipment, while spending XP can increase a Skill by 10%. You SOUL LEVEL increases with each Arena Victory. When your SL increases, the game will ramp up the difficulty by spawning monsters you haven't seen yet with random modifiers.
 
 ---
-## Current Version: v.0.02 (06/26/17)
+## Current Version: v.0.03 (06/27/17)
+
+v.0.03
+ - [ADDED] More Hub Room Decoration (the bonfire is actually a bonfire now)
+ - [ADDED] Secret easter egg I can't give away in update log
+ - [ADDED] Soul Token System for Raids
+ - [STARTED] First Raid Work
+ - [BUG] AI is still wonky if you "kill 2 good"
+
+
 v.0.02
  - [REMOVED] "View Changelog" entry in game (for obvious reasons)
  - [ADDED] GitHub Link on Spawn
@@ -51,9 +60,6 @@ v.0.02
  - [ADDED] Some additional decoration in the shop area
  - [ADDED] Tesla Grenade, Shield Wall and Siphon Grenade have been added to the Shop
  - [STARTED] Added a place for purchasing Ammo/Health Dispensers, but not sure if i'm making this into a class specific thing
-
-
-
 
 
 v.0.01
